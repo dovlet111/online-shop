@@ -32,7 +32,6 @@
             :isError="$errors->has('email')"
         >
         </x-forms.text-input>
-
         <x-forms.primary-button>
             Войти
         </x-forms.primary-button>
